@@ -1,4 +1,4 @@
-import{BrowserRouter, NavLink, Route,Routes} from "react-router-dom";
+import{BrowserRouter, NavLink, Route, Routes} from "react-router-dom";
 import Profile from "./Profile";
 import Messages from "./Messages";
 import Settings from "./Settings";
